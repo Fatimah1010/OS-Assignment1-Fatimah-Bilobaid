@@ -20,55 +20,60 @@ Document your development process as you work on the assignment. Add entries sho
 - Created GitHub account with university email
 - Forked the starter repository
 - Changed student ID on line 92 to my actual ID (441234567)
+- Added my student ID in schedulerSimulation.java
 - Compiled and ran the program successfully
 
 **Challenges**: Had to install JDK first because javac wasn't recognized
 
 **Solution**: Downloaded JDK 17 from Oracle website and set PATH variable
 
-**Time spent**: 30 minutes
+**Time spent**: 4 hours
 
 ---
 
 ## Your Development Log:
 
-### Entry 1 - [Date and Time]
-**What I did**: 
+### Entry 1 - [April 1, 2026, 8:23 PM]
 
-**Details**: 
+**What I did**:  set up the project and execute the first code.
 
-**Challenges**: 
+**Details**:Compiled application and cloned repository
 
-**Solution**: 
+**Challenges**:Java is not set up
 
-**Time spent**: 
+**Solution**: Installing JDK and fixing PATH was the solution.
 
----
-
-### Entry 2 - [Date and Time]
-**What I did**: 
-
-**Details**: 
-
-**Challenges**: 
-
-**Solution**: 
-
-**Time spent**: 
+**Time spent**: 3 hours
 
 ---
 
-### Entry 3 - [Date and Time]
-**What I did**: 
+### Entry 2 - [April 2, 2026, 6:10 AM]
 
-**Details**: 
+**What I did**: Round-Robin logic was implemented.
 
-**Challenges**: 
+**Details**: Worked on the time quantum and ready queue
 
-**Solution**: 
+**Challenges**: Incorrect re-queuing of processes
 
-**Time spent**: 
+**Solution**: Debug prints were added, and logic was fixed.
 
+**Time spent**: 2 hours
+
+---
+
+### Entry 3 - [April 2, 2026, 3:17 PM]
+
+**What I did**: comprehended the simulation of threads and processes
+
+**Details**:Examined the creation and operation of threads 
+
+**Challenges**: Uncertainty over the thread lifespan
+
+**Solution**: Examined examples and lecture slides
+
+**Time spent**: 4 hours
+
+ 
 ---
 
 ### Entry 4 - [Date and Time]
@@ -112,10 +117,11 @@ Document your development process as you work on the assignment. Add entries sho
 
 ## Summary
 
-**Total time spent on assignment**: [X hours]
+**Total time spent on assignment**: [2 days]
 
-**Most challenging part**: 
+**Most challenging part**: Implementation of Round-Robin
 
-**Most interesting learning**: 
+**Most interesting learning**: : Behavior of thread scheduling
 
-**What I would do differently next time**: 
+**What I would do differently next time**: Test more often and begin earlie
+
