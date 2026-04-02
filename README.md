@@ -452,7 +452,7 @@ Submit a **text file** named: `YourName_StudentID_Assignment1.txt`
 Student Name: Fatimah bilobaid
 Student ID: 444052271
 GitHub Username: Fatimah1010
-Repository Link: https://github.com/[your-username]/OS-Assignment1-[YourName]
+Repository Link: https://github.com/Fatimah1010/OS-Assignment1-Fatimah-Bilobaid.git
 Video Link: [Google Drive link - make sure it's accessible to anyone with the link]
 Date Submitted: [Submission Date]
 ```
