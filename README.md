@@ -453,7 +453,7 @@ Student Name: Fatimah bilobaid
 Student ID: 444052271
 GitHub Username: Fatimah1010
 Repository Link: https://github.com/Fatimah1010/OS-Assignment1-Fatimah-Bilobaid
-Video Link: [Google Drive link - make sure it's accessible to anyone with the link]
+Video Link: https://drive.google.com/file/d/1u2YopIhzBzZ8GUx_HmcezCT-MOxF_AvS/view?usp=drivesdk
 Date Submitted: April 2, 2026
 ```
 
